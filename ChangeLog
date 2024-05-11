@@ -1,6 +1,11 @@
 CHANGES
 =======
 
+2.4.1
+-----
+
+* Adding missing 'typing\_extensions' requirement
+
 2.4.0
 -----
 
